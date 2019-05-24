@@ -1,0 +1,11 @@
+H:\DEV\gitrepos\bigbookapi\bin\Debug\netcoreapp2.2\bigbookapi.deps.json
+H:\DEV\gitrepos\bigbookapi\bin\Debug\netcoreapp2.2\bigbookapi.runtimeconfig.json
+H:\DEV\gitrepos\bigbookapi\bin\Debug\netcoreapp2.2\bigbookapi.runtimeconfig.dev.json
+H:\DEV\gitrepos\bigbookapi\bin\Debug\netcoreapp2.2\bigbookapi.dll
+H:\DEV\gitrepos\bigbookapi\bin\Debug\netcoreapp2.2\bigbookapi.pdb
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.csprojAssemblyReference.cache
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.csproj.CoreCompileInputs.cache
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.AssemblyInfoInputs.cache
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.AssemblyInfo.cs
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.dll
+H:\DEV\gitrepos\bigbookapi\obj\Debug\netcoreapp2.2\bigbookapi.pdb
